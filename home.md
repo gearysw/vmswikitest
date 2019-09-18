@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: Viking Motorsports Wiki -->
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Viking Motorsports Wiki
