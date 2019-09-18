@@ -1,5 +1,5 @@
-<!-- TITLE: Viking Motorsports Wiki -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Viking Motorsports -->
+<!-- SUBTITLE: Wiki for all Viking Motorspots designs and resources -->
 
 # Viking Motorsports Wiki
 
